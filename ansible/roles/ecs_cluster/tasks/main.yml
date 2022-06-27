@@ -88,4 +88,4 @@
 
 # Show url to user
 - debug:
-    msg: "The deploy is over. You can access through the url : http://{{ create_elb.dns_name }}"
+    msg: "The deploy is over. You can access through the url : http://test-lb-tf-1120149482.ap-south-1.elb.amazonaws.com"
